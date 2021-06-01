@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" width="700">
 
-## I'm a Python Developer & Instructor
+## I'm a Python Developer & C++
 - 🔭 I’m currently working as a freelancer !
-- 🌱 I’m currently learning Data Sciense & AI 
+- 🌱 I’m currently learning AI 
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love teach people
 
